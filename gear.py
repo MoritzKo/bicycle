@@ -13,4 +13,5 @@ def geschwindigkeit(n_ritzel, n_kettenblatt):
   cadence = np.arrange(50,151) 
   # zurückgelegte Strecke pro Minute
   strecke_pro_min = cadence * strecke
+  
 
